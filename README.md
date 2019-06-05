@@ -9,7 +9,7 @@ If you have Composer, just include Macaw as a project dependency in your `compos
 
 ```
 require: {
-    "noahbuscher/macaw": "dev-master"
+    "wqd1688/macaw": "1.0.0"
 }
 ```
 
